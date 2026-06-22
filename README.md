@@ -1,4 +1,4 @@
-Hi 👋, I'm Ankit Bhardwaj
+<h1 allign="centre">Hi 👋, I'm Ankit Bhardwaj</h1>
 
 
 <!--
